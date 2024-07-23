@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+Workhelio tutorial
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Workhelio uncovers insights from your data with 
+AI chatbots and rich data visualizations
+with flexible pricing
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://workhelio.readthedocs.io/en/latest/
