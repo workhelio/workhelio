@@ -7,4 +7,4 @@ with flexible pricing
 
 Read the tutorial here:
 
-https://workhelio.readthedocs.io/en/latest/
+https://docs.workhelio.com
