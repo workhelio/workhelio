@@ -36,3 +36,10 @@ epub_show_urls = 'footnote'
 
 # -- Options for static files
 html_static_path = ['_static']
+
+# -- Additional options to consider
+# Ensuring that the image paths are treated correctly
+html_extra_path = ['_extra']
+
+# Optional: Ensuring that Read the Docs uses the correct master doc
+master_doc = 'index'
