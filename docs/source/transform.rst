@@ -16,7 +16,9 @@ The following steps will help you to correct or change your data types. The exam
 
 You can skip this step if you have a dashboard already created. However, if you have not created a dashboard, click on the plus (+) button on the top right of the screen. 
 
-.. image:: images/img_001.png
+.. figure:: images/img_001.png
+   :width: 80%
+   :align: center
    :alt: Example Image
 
 Select the “Dashboard” option inside the modal that appears after clicking the plus button.
