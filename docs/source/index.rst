@@ -21,4 +21,4 @@ Contents
    usage
    api 
    data_transformation
-   transform
+   how_to_transform_data
