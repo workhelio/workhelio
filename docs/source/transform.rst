@@ -23,53 +23,71 @@ You can skip this step if you have a dashboard already created. However, if you 
 
 Select the “Dashboard” option inside the modal that appears after clicking the plus button.
 
-.. image:: /_static/images/img_002.png
+.. figure:: /_static/images/img_002.png
+   :width: 80%
+   :align: center
    :alt: Example2 Image
 
-.. image:: images/img_003.png
+.. figure:: /_static/images/img_003.png   
+   :width: 80%
+   :align: center
    :alt: Example3 Image
 
 2. Name Your Dashboard
     
 After selecting the dashboard, you will be taken to the dashboard page. On the top-left of the screen, edit the title of your dashboard to the title of your choice. 
 
-.. image:: images/img_004.png
+.. figure:: /_static/images/img_004.png
+   :width: 80%
+   :align: center
    :alt: Example4 Image
 
 In this example, we will change the title to “Correct Data Type”. Click the save button on the top-right of the screen to save the title.
 
-.. image:: images/img_005.png
+.. figure:: /_static/images/img_005.png
+   :width: 80%
+   :align: center
    :alt: Example5 Image   
 
 3. Edit the Dashboard to Create a New Chart
 
-After saving the dashboard name, you click on the edit dashboard button to create a new chart. 
+After saving the dashboard name, click the edit dashboard button to create a new chart. 
 
-.. image:: images/img_006.png
+.. figure:: /_static/images/img_006.png
+   :width: 80%
+   :align: center
    :alt: Example6 Image
 
 The page will change and you will see a new button - “CREATE A NEW CHART”, click on it. 
 
-.. image:: images/img_007.png
+.. figure:: /_static/images/img_007.png
+   :width: 80%
+   :align: center
    :alt: Example7 Image
 
 This will take you to a new page where you will select the chart type you want and build your preferred dashboard chart. 
 
 4. Choose Your Dataset and Chart Type
 
-Choose a dataset to work with among the list of dataset in the select input options. We are going to select mock_employee_data as our option in this example. 
+Choose a dataset to work with among the list of datasets in the select input options. We are going to select mock_employee_data as our option in this example. 
 
-.. image:: images/img_008.png
+.. figure:: /_static/images/img_008.png
+   :width: 80%
+   :align: center
    :alt: Example8 Image    
 
 Select the chart type. In this example, we are going to select the bar chart under the list of popular charts.
 
-.. image:: images/img_009.png
+.. figure:: /_static/images/img_009.png
+   :width: 80%
+   :align: center
    :alt: Example9 Image
 
 When you are done, click on the “CREATE NEW CHART” button at the bottom of the page. 
 
-.. image:: images/img_010.png
+.. figure:: /_static/images/img_010.png
+   :width: 80%
+   :align: center
    :alt: Example10 Image
 
 5. Input Your Data for the Chart
@@ -88,32 +106,44 @@ In the command above, the code will convert the age column to a string data type
 
 The command above will concatenate “ years old” to the age column string. Write the command inside the CUSTOM-SQL and save it as shown below:
 
-.. image:: images/img_011.png
+.. figure:: /_static/images/img_011.png
+   :width: 80%
+   :align: center
    :alt: Example11 Image
 
 Choose your metrics and save. 
 
-.. image:: images/img_012.png
+.. figure:: /_static/images/img_012.png
+   :width: 80%
+   :align: center
    :alt: Example12 Image
 
 6. Visualize and Complete the Chart Creation
 
 Click the “CREATE CHART” button at the bottom of the page to visualize your new chart. 
     
-.. image:: images/img_013.png
+.. figure:: /_static/images/img_013.png
+   :width: 80%
+   :align: center
    :alt: Example13 Image
 
-.. image:: images/img_014.png
+.. figure:: /_static/images/img_014.png
+   :width: 80%
+   :align: center
    :alt: Example14 Image
 
 On the top-left of the page, add the name of the chart and click on the “SAVE” button at the top-right of the screen.
 
-.. image:: images/img_015.png
+.. figure:: /_static/images/img_015.png
+   :width: 80%
+   :align: center
    :alt: Example15 Image
 
 The save button opens a save modal where you can complete your chart creation. 
 
-.. image:: images/img_016.png
+.. figure:: /_static/images/img_016.png
+   :width: 80%
+   :align: center
    :alt: Example16 Image
     
 .. _list_of_commands_to_transform_data:
