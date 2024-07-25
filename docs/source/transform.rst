@@ -23,7 +23,7 @@ You can skip this step if you have a dashboard already created. However, if you 
 
 Select the “Dashboard” option inside the modal that appears after clicking the plus button.
 
-.. image:: images/img_002.png
+.. image:: /_static/images/img_002.png
    :alt: Example2 Image
 
 .. image:: images/img_003.png
