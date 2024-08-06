@@ -19,7 +19,6 @@ Contents
 .. toctree::
 
    usage
-   api 
    data_transformation
    how_to_transform_data
    data_transform_with_helio
