@@ -203,3 +203,4 @@ The save button opens a save modal where you can complete your chart creation.
    :alt: Example16 Image
 
 
+Congratulations! You have successfully launched the Workhelio app and created a chart. 
