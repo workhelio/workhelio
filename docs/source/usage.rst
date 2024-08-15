@@ -12,7 +12,6 @@ Once again, welcome to Workhelio, a comprehensive tool for visualizing and analy
 2. Launching the app
 3. Account Creation
 4. Creating a New Dashboard
-5. 
 5. Creating Your First Report
 
 .. _system_requirements
